@@ -23,5 +23,5 @@ It supports both light and dark modes, which can be toggled with a single click.
 - Add customizable themes/colors
 - Add seconds animation
 
-
+Github:GitHub: https://github.com/rohanmane7890/Dist
 
