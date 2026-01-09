@@ -23,7 +23,5 @@ It supports both light and dark modes, which can be toggled with a single click.
 - Add customizable themes/colors
 - Add seconds animation
 
-## Repository
-You can find the source code for this project on GitHub:  
-[Digital Clock Repository](https://github.com/rohanmane7890/digital-clock)
+
 
