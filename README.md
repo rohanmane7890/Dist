@@ -1,5 +1,5 @@
-# Dist
-#Digital Clock Dark/Light
+
+# Digital Clock Dark/Light
 
 #Project Description
 A real-time digital clock built with HTML, CSS, and JavaScript that displays hours, minutes, and seconds. 
